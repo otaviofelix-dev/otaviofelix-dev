@@ -111,13 +111,11 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projeto em Destaque
 
 * 📦 Sistema de Estoque em Java
-* 📊 Automações com Excel VBA
-* 🗄️ CRUD com Java + MySQL
-* 🌐 Projetos Web com HTML, CSS e JavaScript
-
+* 📊 Automações com Excel VBA e Google AppScript
+* 🗄️ CRUD com Java (Java swing) + MySQL
 ---
 
 ### 📊 Estatísticas
