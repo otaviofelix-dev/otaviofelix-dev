@@ -11,14 +11,14 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
         <img 
             alt="Repositorios" 
             title="Meus projetos no GitHub" 
-            src="https://custom-icon-badges.demolab.com/badge/Projetos-GitHub-55960c?style=for-the-badge&logo=repo"
+            src="https://github.com/otaviofelix-dev?tab=projects"
         />
     </a>
     <a href="https://www.linkedin.com/">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://www.linkedin.com/in/otaviofelix-ti/"
         />
     </a>
 </p>
