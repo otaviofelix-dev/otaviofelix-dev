@@ -38,6 +38,15 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
 
 <img 
  align="left" 
+ alt="Excel"
+ title="Excel" 
+ width="30px" 
+ style="padding-right: 10px;" 
+ src="https://img.icons8.com/?size=100&id=JChkA69vF7Lo&format=png&color=000000" 
+/>
+
+<img 
+ align="left" 
  alt="MySQL"
  title="MySQL" 
  width="30px" 
