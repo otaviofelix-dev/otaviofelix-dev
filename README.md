@@ -2,23 +2,30 @@
 
 **`Desenvolvedor Full Stack | Java & Automação`**
 
-Me chamo Otávio Félix do Nascimento, tenho 25 anos e sou natural do Rio de Janeiro. Tenho experiência em laboratórios de informática, onde ministrei aulas de Lógica de Programação, Excel Avançado com VBA e HTML. Atualmente, curso Ciência da Computação na IBMR(EAD) e venho desenvolvendo projetos focados em Java, MySQL, automação e sistemas desktop.
+Me chamo Otávio Félix do Nascimento, tenho 25 anos e sou natural do Rio de Janeiro. Tenho experiência em laboratórios de informática, onde ministrei aulas de Lógica de Programação, Excel Avançado com VBA e HTML. Atualmente, curso Ciência da Computação na PUCRS e venho desenvolvendo projetos focados em Java, MySQL, automação e sistemas desktop.
 
 Busco evoluir constantemente como desenvolvedor, criando soluções práticas e adquirindo experiência no desenvolvimento Full Stack.
 
 <p align="left">
-    <a href="https://github.com/SEU-USUARIO?tab=repositories">
+    <a href="https://github.com/otaviofelix-dev?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/otaviofelix-dev?tab=repositories">
         <img 
             alt="Repositorios" 
             title="Meus projetos no GitHub" 
-            src="https://github.com/otaviofelix-dev?tab=projects"
+            src="https://custom-icon-badges.demolab.com/badge/Projetos-GitHub-55960c?style=for-the-badge&logo=repo"
         />
     </a>
-    <a href="https://www.linkedin.com/">
+    <a href="https://www.linkedin.com/in/otaviofelix-ti/">
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
-            src="https://www.linkedin.com/in/otaviofelix-ti/"
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
 </p>
