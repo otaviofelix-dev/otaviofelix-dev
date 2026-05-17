@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack | Java & Automação`**
 
-Me chamo Otávio Félix do Nascimento, tenho 25 anos e sou natural do Rio de Janeiro. Tenho experiência em laboratórios de informática, onde ministrei aulas de Lógica de Programação, Excel Avançado com VBA e HTML. Atualmente, curso Ciência da Computação na PUCRS e venho desenvolvendo projetos focados em Java, MySQL, automação e sistemas desktop.
+Me chamo Otávio Félix do Nascimento, tenho 25 anos e sou natural do Rio de Janeiro. Tenho experiência em laboratórios de informática, onde ministrei aulas de Lógica de Programação, Excel Avançado com VBA e HTML. Atualmente, curso Ciência da Computação na IBMR(EAD) e venho desenvolvendo projetos focados em Java, MySQL, automação e sistemas desktop.
 
 Busco evoluir constantemente como desenvolvedor, criando soluções práticas e adquirindo experiência no desenvolvimento Full Stack.
 
