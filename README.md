@@ -87,7 +87,7 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
  title="Excel VBA" 
  width="30px" 
  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows10/windows10-original.svg" 
+ src="https://img.icons8.com/?size=100&id=FENqCFASj0PV&format=png&color=000000" 
 />
 
 <br/>
