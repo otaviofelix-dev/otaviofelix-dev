@@ -56,15 +56,6 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
 
 <img 
  align="left" 
- alt="CSS"
- title="CSS" 
- width="30px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
-/>
-
-<img 
- align="left" 
  alt="JavaScript"
  title="JavaScript" 
  width="30px" 
@@ -96,7 +87,7 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
  title="Excel VBA" 
  width="30px" 
  style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows10/windows10-original.svg" 
 />
 
 <br/>
