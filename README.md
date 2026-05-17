@@ -7,13 +7,6 @@ Me chamo Otávio Félix do Nascimento, tenho 25 anos e sou natural do Rio de Jan
 Busco evoluir constantemente como desenvolvedor, criando soluções práticas e adquirindo experiência no desenvolvimento Full Stack.
 
 <p align="left">
-    <a href="https://github.com/SEU-USUARIO?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/SEU-USUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://github.com/SEU-USUARIO?tab=repositories">
         <img 
             alt="Repositorios" 
