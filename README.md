@@ -18,7 +18,7 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/badge/Contato-25d366?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
       <a href="https://wa.me/5521976866046?text=Olá%20Otávio,%20analisei%20seu%20perfil%20e%20seus%20projetos%20no%20GitHub.%20Gostaria%20de%20conversar%20com%20você%20sobre%20uma%20oportunidade%20na%20área%20de%20desenvolvimento.">
