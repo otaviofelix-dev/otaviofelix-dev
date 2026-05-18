@@ -120,9 +120,9 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
 
 ---
 
-### Fácilidades
-
-* 📦 Sistema de Estoque em Java
-* 📊 Automações com Excel VBA e Google AppScript
-* 🗄️ CRUD com Java (Java swing) + MySQL
+### Confira!
+* 📦 [Sistema de Estoque em Java](https://github.com/otaviofelix-dev/sistema-estoque-java#readme)
+* 📊 [Automações com Excel VBA e Google AppScript](https://github.com/otaviofelix-dev/quick-email#readme)
+* 🗄️ CRUD com Java (Java Swing) + MySQL  
+  *(Usado no sistema de estoque)*  
 ---
