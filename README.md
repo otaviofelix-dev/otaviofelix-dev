@@ -120,7 +120,7 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
 
 ---
 
-### 🚀 Projeto em Destaque
+### Fácilidades
 
 * 📦 Sistema de Estoque em Java
 * 📊 Automações com Excel VBA e Google AppScript
