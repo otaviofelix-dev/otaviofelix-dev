@@ -109,7 +109,7 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
 <img 
  align="left" 
  alt="Excel"
- title="Excel VBA" 
+ title="Windows" 
  width="30px" 
  style="padding-right: 10px;" 
  src="https://img.icons8.com/?size=100&id=FENqCFASj0PV&format=png&color=000000" 
