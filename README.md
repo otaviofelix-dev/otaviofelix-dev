@@ -123,6 +123,7 @@ Busco evoluir constantemente como desenvolvedor, criando soluções práticas e 
 ### Confira!
 * 📦 [Sistema de Estoque em Java](https://github.com/otaviofelix-dev/sistema-estoque-java#readme)
 * 📊 [Automações com Excel VBA e Google AppScript](https://github.com/otaviofelix-dev/quick-email#readme)
+* 📊 [Sistema para restaurante](https://github.com/otaviofelix-dev/felix-cardapio#readme)
 * 🗄️ CRUD com Java (Java Swing) + MySQL  
   *(Usado no sistema de estoque)*  
 ---
